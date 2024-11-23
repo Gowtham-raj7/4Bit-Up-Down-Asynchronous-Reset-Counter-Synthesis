@@ -70,10 +70,10 @@ used.
 ![image](https://github.com/user-attachments/assets/c34d5257-524a-4df3-b24b-3d633b84c68f)
 
 #### Power Report:
-![image](https://github.com/user-attachments/assets/c599546f-b6a6-4640-a6e6-4cea4a7e342c)
+![Screenshot 2024-11-22 232414](https://github.com/user-attachments/assets/ddb303ba-0c07-49e4-a498-cf77ecc6884e)
 
 #### Timing Report: 
-![image](https://github.com/user-attachments/assets/92c5add4-888a-4a81-a4a2-ec6b69d07e1d)
+![Screenshot 2024-11-22 232454](https://github.com/user-attachments/assets/c11f0a94-b6d2-49a2-820d-429c4d24164d)
 
 #### Result: 
 
